@@ -1,0 +1,13 @@
+name = "Allomancy"
+filename = "CosmereAllomancy-1.19.2-43.1.3-0.5.94.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u1pejmgA/versions/hIfiSALB/CosmereAllomancy-1.19.2-43.1.3-0.5.94.jar"
+hash-format = "sha1"
+hash = "f4bbb99ffa987533bc083884197103d35ec1ae51"
+
+[update]
+[update.modrinth]
+mod-id = "u1pejmgA"
+version = "hIfiSALB"

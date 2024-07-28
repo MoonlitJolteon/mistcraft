@@ -1,0 +1,13 @@
+name = "Just Enough Breeding (JEBr)"
+filename = "justenoughbreeding-forge-1.19.2-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Pk89J3g/versions/BPwngZSn/justenoughbreeding-forge-1.19.2-1.2.1.jar"
+hash-format = "sha1"
+hash = "dedf40e2b7fa259ee408a98390a2530d27305e24"
+
+[update]
+[update.modrinth]
+mod-id = "9Pk89J3g"
+version = "BPwngZSn"

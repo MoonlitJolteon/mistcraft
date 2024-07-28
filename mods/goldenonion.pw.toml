@@ -1,0 +1,13 @@
+name = "GoldenOnion"
+filename = "GoldenOnion_1.19.2_1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "471e48045c007a68e0956a68fc871e11f6857f4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5569506
+project-id = 1071955

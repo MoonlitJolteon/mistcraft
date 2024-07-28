@@ -1,0 +1,13 @@
+name = "Sand Mastery"
+filename = "CosmereSandmastery-1.19.2-43.1.3-0.5.94.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9EJFLSYm/versions/n6PHEFrj/CosmereSandmastery-1.19.2-43.1.3-0.5.94.jar"
+hash-format = "sha1"
+hash = "82948d9c3b69fb7ce633378f2e5f4af5e5c842ad"
+
+[update]
+[update.modrinth]
+mod-id = "9EJFLSYm"
+version = "n6PHEFrj"

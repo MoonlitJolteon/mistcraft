@@ -1,0 +1,13 @@
+name = "Mistcraft"
+author = "Expertest"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5a373e77dc440b9c9f286001e2166eec461dbd7ccb910a80fd2769a291e0f7ad"
+
+[versions]
+forge = "43.4.2"
+minecraft = "1.19.2"

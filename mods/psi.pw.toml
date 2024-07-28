@@ -1,0 +1,13 @@
+name = "Psi"
+filename = "Psi-1.19-101.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pOeA0exL/versions/NBwLssHD/Psi-1.19-101.jar"
+hash-format = "sha1"
+hash = "0030012ffc984a6f81c0a9f7e565cd561051d6e4"
+
+[update]
+[update.modrinth]
+mod-id = "pOeA0exL"
+version = "NBwLssHD"

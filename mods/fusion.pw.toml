@@ -1,0 +1,13 @@
+name = "Fusion"
+filename = "Fusion-1.19.2-5.1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cca2115984db972c813e1a1ec78cfd8f1130a95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4077075
+project-id = 226139
