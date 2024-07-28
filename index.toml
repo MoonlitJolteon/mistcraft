@@ -171,6 +171,11 @@ hash = "d620b4cd45f734e72a7a56be8eabea411398d1b373b80009fbdfadb20fecdf12"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "b0231a8e01f1d1af24549bdd134b119c0ff80da0947313941a6c388e796c9933"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "2f0d30f69784a97558a03cec6e647be036bda30602dde06b82df78cd4ef464ee"
 metafile = true
@@ -183,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/feruchemy.pw.toml"
 hash = "a4a94f8a2a6344f98c7b47c5ae3b7da5025f11e63b9b8f8de73232661d71feb0"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
 metafile = true
 
 [[files]]
