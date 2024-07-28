@@ -391,6 +391,11 @@ hash = "107daaba02bb2544d55b7f215bfcf59ec94ee137d22e6732a5f0079284afd8f3"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "a75faba8c3916c9f3d29de566de91e24d79e175d0256fab9d3e8beb654da4e80"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "6132d007267c3b5ad0634d2bd6e866357cfe387450ff1362e76732c75b4ea29f"
 metafile = true
