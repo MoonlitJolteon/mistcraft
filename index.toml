@@ -71,6 +71,11 @@ hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "eb732a40c872094340a1ac668d8e28833a553240c1014b961f15a4d794feb6b5"
+metafile = true
+
+[[files]]
 file = "mods/cosmere.pw.toml"
 hash = "065d3f7edf073ce5df379fbf994bd0dbda7c3f1a16093fd49128d2e5b0faf0fb"
 metafile = true
