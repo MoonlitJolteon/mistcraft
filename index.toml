@@ -201,8 +201,8 @@ hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
 metafile = true
 
 [[files]]
-file = "mods/fusion.pw.toml"
-hash = "8bf19b7f7f76ec784b2c9ae57dcbfe47dc84f5ec5bc7620b43f5e329c29bd681"
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3420eb4eb9829f9c64af64ed21e8e2133951525d711f404ecf3dcdc07e0f9fcc"
 metafile = true
 
 [[files]]
