@@ -21,6 +21,11 @@ hash = "9307d7537501310581a6036c788e0f306988b4b90536d629eacaa83a8987b833"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "a89d2e789613f03a9e32ec9c42a2470afb66816c02c14e6acbc0f771ef318852"
 metafile = true
@@ -321,6 +326,11 @@ hash = "a2961c6134993521eda1a60ca4de659d68ba898d774b42b3c992311999f41424"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "8aea5cb3f20c40711a36a9a25cc58b3ff5315eea9ff3995bd522acab40a18511"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "97caa51416c69475fb8b7ef5abb8fe136c3d13254589a5ddef6322b586b7b447"
 metafile = true
@@ -388,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/psi.pw.toml"
 hash = "107daaba02bb2544d55b7f215bfcf59ec94ee137d22e6732a5f0079284afd8f3"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
 metafile = true
 
 [[files]]
