@@ -431,11 +431,6 @@ hash = "b6afe2a3a418fe81d0be4953426291163b0087a090452c85f5b2da157e4e5565"
 metafile = true
 
 [[files]]
-file = "mods/simple-storage-network.pw.toml"
-hash = "f046ff6406364b09df7ecc21f788c2f1fff761f8f97b0417a516f1c2e7df6ee0"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "10476ea1903e58f8c76bda84a0db37aba7157879b8a1cec80c432a3e63d75c10"
 metafile = true
@@ -458,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "c0f6e9bb99d9ce0677ae654a91624ee24e4646b208c092eba24ab8ba8de4d762"
+metafile = true
+
+[[files]]
+file = "mods/spit-it-out.pw.toml"
+hash = "6e29ba69735caa4a8f4979dc7b920ca65a013f9f64231128fc456f46b847e9d4"
 metafile = true
 
 [[files]]
@@ -488,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "580086d24333a68d6b23b508b887205129672d946dbf704dad0c8f4ef68efc5b"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "176b9a9774021afbbb5443cec245787e5c77895713d16360f17cfb01aac6d09f"
 metafile = true
 
 [[files]]
